@@ -1,0 +1,21 @@
+{
+  "title": "linux",
+  "description": "linux",
+  "difficulty": "Beginner",
+  "time": "15",
+  "details": {
+    "steps": [],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
