@@ -1,4 +1,4 @@
-#katacodaのLinux講座
+# katacodaのLinux講座
 katacodaでLinux講座を作成しました。
 
 1. 【linux講座①】コマンドを入力してみよう(https://engineer-ninaritai.com/course/linux/linux-1/)
